@@ -1,0 +1,36 @@
+{
+    "item": {
+        "id": "fbe393c2-cc7a-42be-a318-1ada9d36edcb",
+        "name": "URSingleInstance",
+        "version": "2022",
+        "replicas": 1,
+        "backupSchedule": "8 2 * * *",
+        "flavor": {
+            "id": "4.16-Single",
+            "cpu": 4,
+            "memory": 16,
+            "description": "SQLServer-Flex-4.16-Standard-EU01"
+        },
+        "storage": {
+            "size": 24,
+            "class": "premium-perf12-stackit"
+        },
+        "acl": {
+            "items": [
+                "185.124.195.32/27",
+                "185.124.195.192/27",
+                "193.148.162.228/24",
+                "46.223.162.169/24",
+                "45.129.45.225/24",
+                "109.250.160.152/24",
+                "23.101.54.91/24"
+            ]
+        },
+        "status": "Ready",
+        "options": {
+            "edition": "developer",
+            "projectID": "ed515fe5-7e07-42fe-8955-723db7739eac",
+            "retentionDays": "32"
+        }
+    }
+}

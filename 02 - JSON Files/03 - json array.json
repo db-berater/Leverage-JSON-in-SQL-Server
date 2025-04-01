@@ -1,0 +1,9 @@
+{
+	"Student":
+	{
+		"first_name": "Uwe",
+		"last_name": "Ricken",
+		"languages": ["T-SQL", "PostgreSQL", "VBA", "VB6"]
+	}
+
+}

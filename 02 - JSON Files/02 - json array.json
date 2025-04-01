@@ -1,0 +1,22 @@
+[
+	{
+		"c_custkey": 10,
+		"c_mktsegment": "Building",
+		"c_nationkey": 0,
+		"c_name": "Uwe Ricken",
+		"c_address": "TbgS1LZQocHcW8omZFHij7Zw0L4VxuH3kli9oW",
+		"c_phone": "532-332-4937",
+		"c_acctbal": 6548.4,
+		"c_comment": "slyly ironic asymptotes haggle carefully. dolphins poach blithely ironic"
+	},
+	{
+		"c_custkey": 7,
+		"c_mktsegment": "Household",
+		"c_nationkey": 20,
+		"c_name": "Customer#0000007",
+		"c_address": "E zIKap1OVi9X42HwJo391z9",
+		"c_phone": "602-874-3177",
+		"c_acctbal": 3221.94,
+		"c_comment": "carefully regular requests sleep furiously about the carefully regular asymptotes."
+	}
+]

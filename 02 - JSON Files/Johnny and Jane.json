@@ -1,0 +1,28 @@
+{
+    "person":
+	{
+		"name": "John Doe",
+		"age": 30,
+		"address":
+		{
+			"street": "123 Main St",
+			"city": "Anytown",
+			"state": "CA"
+        },
+        "email": "johndoe@example.com"
+	},
+	"languages": ["English", "Spanish", "French"],
+    "person":
+	{
+		"name": "Jane Doe",
+		"age": 30,
+		"address":
+		{
+			"street": "123 Main St",
+			"city": "Anytown",
+			"state": "CA"
+        },
+        "email": "janedoe@example.com"
+	},
+	"languages": ["English", "German"]
+}

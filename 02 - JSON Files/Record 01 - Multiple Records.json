@@ -1,0 +1,40 @@
+[
+{
+	"first_name": "Uwe",
+	"last_name": "Ricken",
+	"address": 
+	[
+		{
+			"street":	"Buechenweg",
+			"street_no":	4,
+			"zip_code":	"64390",
+			"city":		"Erzhausen",
+			"state":	"Hessen",
+			"country":	"Germany"
+		},
+		{
+			"street":	"Bahnstrasse",
+			"street_no":	22,
+			"zip_code":	"64390",
+			"city":		"Erzhausen",
+			"state":	"Hessen",
+			"country":	"Germany"
+		}
+	]
+},
+{
+	"first_name": "Donald",
+	"last_name": "Duck",
+	"address": 
+	[
+		{
+			"street":	"Entenweg",
+			"street_no":	20,
+			"zip_code":	"12345",
+			"city":		"Entenhausen",
+			"state":	"Hühnerland",
+			"country":	"Geflügelfarm"
+		}
+	]
+}
+]

@@ -1,0 +1,51 @@
+{
+	"customer":
+	[
+		{
+			"first_name": "Uwe",
+			"last_name": "Ricken",
+			"address": 
+			[
+				{
+					"street":		"Buechenweg",
+					"street_no":	4,
+					"zip_code":		"64390",
+					"city":			"Erzhausen",
+					"state":		"Hessen",
+					"country":		"Germany"
+				},
+				{
+					"street":		"Bahnstrasse",
+					"street_no":	33,
+					"zip_code":		"64390",
+					"city":			"Erzhausen",
+					"state":		"Hessen",
+					"country":		"Germany"
+				}
+			]
+		},
+		{
+			"first_name": "Christine Beate",
+			"last_name": "Ricken",
+			"address": 
+			[
+				{
+					"street":		"Buechenweg",
+					"street_no":	4,
+					"zip_code":		"64390",
+					"city":			"Erzhausen",
+					"state":		"Hessen",
+					"country":		"Germany"
+				},
+				{
+					"street":		"Bahnstrasse",
+					"street_no":	33,
+					"zip_code":		"64390",
+					"city":			"Erzhausen",
+					"state":		"Hessen",
+					"country":		"Germany"
+				}
+			]
+		}
+	]
+}

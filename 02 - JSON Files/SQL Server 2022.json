@@ -1,0 +1,36 @@
+{
+    "version": 1,
+    "workspace":
+	{
+        "name": "SQL Server 2022",
+        "created": "2023-10-16T14:21:15.723Z",
+        "modified": "2023-10-16T14:54:59.007Z",
+        "timeRange": "FiveMinutes",
+        "isCluster": false
+    },
+    "counters":
+	[
+        {
+            "object": "MSSQL$SQL_2022:Wait Statistics",
+            "instances":
+			[
+                {
+                    "instanceName": "Waits in progress"
+                }
+            ],
+            "counters":
+			[
+                "Page latch waits"
+            ],
+            "type": "Line"
+        },
+        {
+            "object": "MSSQL$SQL_2022:Access Methods",
+            "counters":
+			[
+                "Page Splits/sec"
+            ],
+            "type": "Line"
+        },
+    ]
+}

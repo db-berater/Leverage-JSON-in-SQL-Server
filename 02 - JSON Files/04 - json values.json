@@ -1,0 +1,40 @@
+{
+		"c_custkey": 10,
+		"c_mktsegment": "Building",
+		"c_nationkey": null,
+		"c_name": "Uwe Ricken",
+		"c_address": "TbgS1LZQocHcW8omZFHij7Zw0L4VxuH3kli9oW",
+		"c_phone": "532-332-4937",
+		"c_acctbal": 6548.4,
+		"c_acc_closed": false,
+		"c_comment": "slyly ironic asymptotes haggle carefully. dolphins poach blithely ironic",
+		"c_contact":
+		{
+			"first_name": "Christine Beate",
+			"last_name": "Ricken"
+		},
+		"orders":
+		[
+			{
+				"o_orderkey": 14336710,
+				"o_orderdaet": "2020-09-09",
+				"o_orderpriority": "4-NOT SPECIFIED",
+				"o_totalprice": 70083.19,
+				"o_orderclosed": true
+			},
+			{
+				"o_orderkey": 157374,
+				"o_orderdaet": "2020-09-05",
+				"o_orderpriority": "2-HIGH",
+				"o_totalprice": 253057.70,
+				"o_orderclosed": false
+			},
+			{
+				"o_orderkey": 27656728,
+				"o_orderdaet": "2020-09-04",
+				"o_orderpriority": "2-HIGH",
+				"o_totalprice": 2057.70,
+				"o_orderclosed": null
+			}
+		]
+}
